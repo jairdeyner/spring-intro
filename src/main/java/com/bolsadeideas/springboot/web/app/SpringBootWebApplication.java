@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.app.springbootweb;
+package com.bolsadeideas.springboot.web.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
